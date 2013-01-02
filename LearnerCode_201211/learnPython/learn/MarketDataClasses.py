@@ -71,7 +71,7 @@ class DayPxs():
     
 class FileCls():
     '''
-    container for equity information
+    File handeling code
     '''
 
     def key(self):
